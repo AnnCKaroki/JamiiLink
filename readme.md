@@ -35,7 +35,9 @@ Install my-project with npm
 ```
 
 ## Lessons Learned
-
+- How to setup a supabase project
+- Data modelling
+- How to test backend using Docker before deployment
 
 
 
